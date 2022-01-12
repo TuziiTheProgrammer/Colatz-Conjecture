@@ -14,7 +14,7 @@ while n > 1 do
 end
 --]]
 
---[[
+--
 
 while n > 1 do
 	wait()
@@ -33,7 +33,7 @@ end
 --	return n  
 --end
 
---
+--[[
 n = 901
 offset = 1
 intep = 0.01
