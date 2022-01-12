@@ -28,10 +28,10 @@ end
 
 --]]
 
---local function conjecture(n)
---	n = n % 2 ~= 0 and 3*n + 1 or n/2 
---	return n  
---end
+local function conjecture(n)
+	n = n % 2 ~= 0 and 3*n + 1 or n/2 
+	return n  
+end
 
 --[[
 n = 901
